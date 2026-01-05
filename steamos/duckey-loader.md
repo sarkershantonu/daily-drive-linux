@@ -4,7 +4,7 @@
 - you may use my downloaded [**file**](decky_installer.desktop) from duckey's github page. 
 
 
-  # Install Duckey Plugins
+ # Install Duckey Plugins
   - Goto Gaming Mode
   - click on steam menu (right side 2nd button), you should see deckey icon
   - Click store link from here and see all pluins.
