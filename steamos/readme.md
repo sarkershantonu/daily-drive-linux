@@ -15,3 +15,6 @@ Tweaks for steamOS runnable in handheld.
 
 # Tested Devices : Not Working
 - [Asrock X600](https://www.asrock.com/nettop/AMD/DeskMini%20X600%20Series/index.asp)  with Ryzen 8500G // infact regular linux is buggy in IO
+
+
+ # [Duckey installation](duckey-loader.md) 
