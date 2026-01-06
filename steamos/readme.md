@@ -2,9 +2,9 @@ Tweaks for steamOS runnable in handheld.
 
 # Tested Devices : Working
 ### Handheld 
-- Legion go gen 1
-- ROG Ally z1
-- Rog Ally z1 Extream
+- Legion go gen 1 780m
+- ROG Ally z1 760m
+- Rog Ally z1 Extream 780m
 
 ### MiniPC
 - [EliteMini UM780 XTX](https://www.minisforum.com/products/elitemini-um780-xtx)
@@ -18,3 +18,5 @@ Tweaks for steamOS runnable in handheld.
 
 
  # [Duckey installation](duckey-loader.md) 
+
+# SteamOs Retro : EmuDeck
