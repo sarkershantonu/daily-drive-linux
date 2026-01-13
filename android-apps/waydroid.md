@@ -1,1 +1,1 @@
-Main Project script (https://github.com/casualsnek/waydroid_script)
+[Main Project](https://github.com/casualsnek/waydroid_script)
