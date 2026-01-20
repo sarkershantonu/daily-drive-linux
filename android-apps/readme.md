@@ -1,1 +1,1 @@
-#[Run Via waydroid](waydroid.md)
+# [Run Via waydroid](waydroid.md)
