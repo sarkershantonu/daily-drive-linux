@@ -12,3 +12,6 @@ This repo contains tricks and tweaks to make usable linux Computer for daily usa
 # Some Basic Utilities
 ### Duplicate file remover 
 - czkawka | Cross Platform GUI : [czkawka](https://github.com/qarmin/czkawka/releases)
+
+# Helpful Repo 
+- https://github.com/FrameworkComputer/linux-docs/tree/main
