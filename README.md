@@ -10,6 +10,7 @@ This repo contains tricks and tweaks to make usable linux Computer for daily usa
 
 
 # Some Basic Utilities
+- [Good ToolBox](https://github.com/TheLinuxITGuy/Toolbox)
 ### Duplicate file remover 
 - czkawka | Cross Platform GUI : [czkawka](https://github.com/qarmin/czkawka/releases)
 
