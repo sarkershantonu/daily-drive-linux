@@ -1,5 +1,5 @@
 # [Omarchy](https://omarchy.org/) Experiences 
-
+- [Documentation](https://omarchy.org/manual/)
 # Tested Hardware 
 ### Laptop 1 : inspiron 13 5310
 - i5 11370H (4C8T)
