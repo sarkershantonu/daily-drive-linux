@@ -13,5 +13,12 @@ This repo contains tricks and tweaks to make usable linux Computer for daily usa
 ### Duplicate file remover 
 - czkawka | Cross Platform GUI : [czkawka](https://github.com/qarmin/czkawka/releases)
 
+
+# Which Linux? 
+- Personal PC/Laptop for developer : omarchy
+- Kids PC , ChromeOS (its built on linux) or Zorin (if they already know windows)
+- Developer workstation , Ubbuntu or Fedora WS , soon omarchy will also be viable to be used. 
+
 # Helpful Repo 
 - https://github.com/FrameworkComputer/linux-docs/tree/main
+
