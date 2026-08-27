@@ -21,5 +21,6 @@ This repo contains tricks and tweaks to make usable linux Computer for daily usa
 - Developer workstation , Ubbuntu or Fedora WS , soon omarchy will also be viable to be used. 
 
 # Helpful Repo 
-- https://github.com/FrameworkComputer/linux-docs/tree/main
+- [Framework Laptop Docs](https://github.com/FrameworkComputer/linux-docs/tree/main)
+- [Guide Book](https://thelinuxbook.com/)
 
