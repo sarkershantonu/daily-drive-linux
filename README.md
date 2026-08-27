@@ -16,9 +16,12 @@ This repo contains tricks and tweaks to make usable linux Computer for daily usa
 
 
 # Which Linux? 
-- Personal PC/Laptop for developer : omarchy
-- Kids PC , ChromeOS (its built on linux) or Zorin (if they already know windows)
-- Developer workstation , Ubbuntu or Fedora WS , soon omarchy will also be viable to be used. 
+- Personal PC/Laptop for developer : CachyOS/PopOs/omarchy
+- Kids PC : ChromeOS (its built on linux) or Zorin (if they already know windows) or Mint
+- WorkPC/Developer workstation : Ubbuntu or Fedora WS , soon omarchy may be.
+- TouchScreen All-in-one Desktops :  Fedora or Zorin(not as good as windows)
+- TVPc/Media center : Zorin/bazzite/[SteamOS](https://store.steampowered.com/steamos/download?ver=steamdeck) with [Kodi](https://kodi.tv/download/)
+- Retro PC/Gaming PC : batocera/bazzite/SteamOS/[retropie](https://retropie.org.uk/download/)
 
 # Helpful Repo 
 - [Framework Laptop Docs](https://github.com/FrameworkComputer/linux-docs/tree/main)
