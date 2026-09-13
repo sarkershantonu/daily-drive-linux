@@ -4,6 +4,7 @@ How to install Avro Keyboard in Ubuntu
 ```
 sudo apt update&& sudo apt install -y ibus-avro
 ```
+### Log out and log in
 
 ### Enable Keyboard 
-Settings >> keyboard >>
+Settings >> keyboard >> input sources >> + add input source >> click 3 dots and click others >>  select Bangla (Avro Phonetic)
