@@ -8,3 +8,5 @@ sudo apt update&& sudo apt install -y ibus-avro
 
 ### Enable Keyboard 
 Settings >> keyboard >> input sources >> + add input source >> click 3 dots and click others >>  select Bangla (Avro Phonetic)
+
+Press WinKey + Space to change input
